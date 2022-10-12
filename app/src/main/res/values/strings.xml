@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kevin Perez</string>
+    <string name="menu">MENU PRINCIPAL</string>
+    <string name="id">USUARIO</string>
+    <string name="pw">PASSWORD</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="opcion">¿QUÉ TE GUSTARIA HACER?</string>
+    <string name="tabla">Tabla de multiplicar</string>
+    <string name="number">1 a 12</string>
+    <string name="numero">Digite un numero</string>
+    <string name="tabla_m">Digitar tabla</string>
+    <string name="agregar">Agregar</string>
+    <string name="Calcular">Calcular</string>
+    <string name="mediaAritmetica">Media Aritmetica</string>
+    <string name="eliminar">Limpiar Lista</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
